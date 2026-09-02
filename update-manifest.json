@@ -1,9 +1,9 @@
 {
     "schema_version":  1,
-    "version":  "1.1.34",
-    "installer_url":  "BekoPlanOptimizer_Setup_1.1.34.exe",
-    "sha256":  "8972aa2103296bc788b1d226823ef7db758676575e4f13190d66ee8a3b261277",
-    "size_bytes":  101517503,
-    "published_at":  "2026-09-01T13:18:04Z",
+    "version":  "1.2.0",
+    "installer_url":  "BekoPlanOptimizer_Setup_1.2.0.exe",
+    "sha256":  "9893262cb23bf8cc08c1fab164cf09a227695149bba20e1a31f9f10881bfeecc",
+    "size_bytes":  101544823,
+    "published_at":  "2026-09-02T07:49:01Z",
     "release_notes":  ""
 }
