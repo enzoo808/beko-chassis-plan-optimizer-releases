@@ -1,0 +1,10 @@
+{
+    "schema_version":  1,
+    "version":  "1.2.10",
+    "installer_url":  "BekoPlanOptimizer_Setup_1.2.10.exe",
+    "sha256":  "c8255a5b96dd27c45b2fb313bea9fa31e6344492b96bce885ffd0dd3f09369de",
+    "size_bytes":  102131680,
+    "installer_self_test":  1,
+    "published_at":  "2026-09-10T11:19:08Z",
+    "release_notes":  ""
+}
