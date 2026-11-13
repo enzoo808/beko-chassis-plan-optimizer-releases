@@ -1,0 +1,37 @@
+BEKO PLAN OPTIMIZER - KULLANIM BILDIRIMI
+USAGE NOTICE
+
+Turkce
+------
+Beko Plan Optimizer, Cerkezkoy TV anakart uretim planlamasi icin gelistirilmis
+dahili bir masaustu uygulamasidir. Tum haklari saklidir. Yalniz yetkili dahili
+kullanim icindir. Bu depodaki kurulum paketi ve belgeler, yazili izin olmadan
+kopyalanamaz, dagitilamaz, degistirilemez veya ucuncu taraflara sunulamaz.
+
+Bu depo acik kaynak lisansi icermez ve bir lisans verildigi anlamina gelmez.
+Bu depo resmi bir marka urunu olarak sunulmaz; "Beko" adi yalniz uygulamanin
+adinda ve uygulamanin kullanildigi dahili baglami belirtmek icin gecer.
+Hicbir logo veya resmi marka varligi icermez.
+
+Uygulama "oldugu gibi" sunulur; hukuki sorumluluk ve garanti kosullari kurumun
+ilgili birimlerince belirlenir.
+
+Iletisim: README.md dosyasindaki "Destek" bolumune (GitHub Issues) bakin.
+
+English
+-------
+Beko Plan Optimizer is an internal desktop application developed for Cerkezkoy
+TV mainboard production planning. All rights reserved. For authorised internal
+use only. The installer and documents in this repository may not be copied,
+distributed, modified or made available to third parties without written
+permission.
+
+This repository contains no open-source licence and grants no licence. It is not
+presented as an official brand product; the name "Beko" appears only in the
+application's name and to describe the internal context in which it is used.
+It contains no logos or official brand assets.
+
+The application is provided "as is"; legal liability and warranty terms are to
+be set by the relevant company departments.
+
+Contact: see the "Support" section of README.en.md (GitHub Issues).

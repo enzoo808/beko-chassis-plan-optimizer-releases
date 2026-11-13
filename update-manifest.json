@@ -1,0 +1,10 @@
+{
+    "schema_version":  1,
+    "version":  "1.5.2",
+    "installer_url":  "BekoPlanOptimizer_Setup_1.5.2.exe",
+    "sha256":  "9f1ecb8d239a14f7f707f8acab4ed561bb8c05488335262e2d300390ad29ea1b",
+    "size_bytes":  102235725,
+    "installer_self_test":  1,
+    "published_at":  "2026-11-13T11:21:52Z",
+    "release_notes":  "Sonuçlar ekranı sadeleşti: yan yana iki tablo yerine tek \"Önerilen Plan\" tablosu var; önceki plana göre değişen hücreler yeşil çerçeveyle işaretlenir, üzerine gelince önceki değer görünür. Planlama\u0027daki Öncesi/Sonrası karşılaştırmaları da aynı tek tablo düzenine geçti. Asistan, bulunduğunuz sayfaya göre açılır: o sayfayla ilgili bulguları ve hazır soruları öne çıkarır."
+}

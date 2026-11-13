@@ -1,0 +1,5 @@
+# Dagitim deposu: Setup ikili, vitrin metinleri LF. update-manifest.json'a DOKUNULMAZ.
+*.exe binary
+*.png binary
+*.md text eol=lf
+*.svg text eol=lf
